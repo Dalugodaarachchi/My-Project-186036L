@@ -1,3 +1,5 @@
-value = 12
+from pen import Pen
+
+car = Car('A')
 print('Hello')
-print(value)
+print(car,value)
