@@ -1,5 +1,7 @@
 from pen import Pen
 
-car = Car('A')
+pen1 = Pen('A')
+pen2 = Pen('B')
 print('Hello')
-print(car,value)
+print(car1.value)
+print(car2.value)
